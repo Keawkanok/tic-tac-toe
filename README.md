@@ -1,4 +1,5 @@
-# Deploy React website 
+# Deploy React website Gmae-XO 
+# test game Xo  => https://Keawkanok.github.io/tic-tac-toe 
  # install 
 - npm install --save gh-pages
  
