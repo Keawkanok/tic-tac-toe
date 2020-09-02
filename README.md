@@ -7,7 +7,7 @@ Deploy React website
  “predeploy”: “npm run build”,
  “deploy”: “gh-pages -d build”,
 
-
+----------------------------------------------------------------------------------------------------
 "name": "chueproject",
   "version": "0.1.0",
   "homepage": "https://ชื่อผู้ใช้.github.io/ชื่อโปรเจค/",   <-------------------------
@@ -21,6 +21,8 @@ Deploy React website
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
+
+-----------------------------------------------------------------------------------------------------
  "scripts": {
   "predeploy": "npm run build",    <-------------------------
   "deploy": "gh-pages -d build",   <-------------------------
