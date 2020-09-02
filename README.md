@@ -1,11 +1,11 @@
-# Deploy React website 
- #install 
- # npm install --save gh-pages
+Deploy React website 
+ install 
+ npm install --save gh-pages
  
- #เพิ่มไปยังpackage.json
- # "homepage": "https://ชื่อผู้ใช้.github.io/ชื่อโปรเจค/",  
- # “predeploy”: “npm run build”,
- # “deploy”: “gh-pages -d build”,
+ เพิ่มไปยังpackage.json
+ "homepage": "https://ชื่อผู้ใช้.github.io/ชื่อโปรเจค/",  
+ “predeploy”: “npm run build”,
+ “deploy”: “gh-pages -d build”,
 
 
 "name": "chueproject",
